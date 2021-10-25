@@ -34,9 +34,13 @@ Education
  - Courses completed: Computational Methods in Engineering Analysis (79%), Biomechanics (70%), Linear Control System (81%), Polymer Engineering (76%), System reliability (78%)
 - BEng in Materials Forming and Controlling (HIT)	
 
+List of papers I have published 
+1. Yaoyi Geng, Wenlong Xie, Yuhui Tu, Siying Deng, Darragh Egan, Denis P. Dowling, Hongwu Song, Shihong Zhang, Noel Harrison, [Ti–6Al–4V microstructural functionally graded material by additive manufacturing: Experiment and computational modelling](www.sciencedirect.com/science/article/pii/S0921509321010480), Materials Science and Engineering: A, Volume 823, 17 August 2021, 141782 (IF2020 = 5.234)
+2. Yaoyi Geng, Éanna McCarthy, Dermot Brabazon, Noel M Harrison. [Ti-6Al-4V functionally graded material via high power and high speed laser surface modification](www.sciencedirect.com/science/article/pii/S0257897220307544), Surface and Coatings Technology, Volume 398, 25 September 2020, 126085 (IF2020 = 4.158)
+3. Yaoyi Geng, Brendan Phelan, Ramesh Raghavendra, Noel Harrison. [Single-step process of microstructural functionally graded Ti-6Al-4V by laser powder bed fusion additive manufacturing](https://link.springer.com/article/10.1007/s40194-020-00907-1). Welding in the World. Weld World 64, 1357–1366, 08 May 2020 (IF2020 = 2.103)
+4. Yaoyi Geng, Noel Harrison. [Functionally graded bimodal Ti-6Al-4V fabricated by powder bed fusion additive manufacturing: Crystal plasticity finite element modelling](https://www.sciencedirect.com/science/article/pii/S0921509319315229). Materials Science and Engineering: A, Volume 773, 31 January 2020, 138736 (IF2020 = 5.234)	
 
-
-a little Chinese poem where my name was originated  
+**a little Chinese poem where my name was originated**
 ### 遥襟甫畅 逸兴遄飞
 
 ####**遥Yao**襟甫畅  
