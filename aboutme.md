@@ -9,6 +9,7 @@ My name is GENG Yaoyi. I'm a mechanical engineer with 4+ years of experience in 
 ### Work experience
 
 Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)  
+
 03/2016 - 04/2016	Luoyang Building Machinery 		Engineering Intern 
 - Attended on-site visit and trainings to the agricultural machinery factory
 - Prepared daily report to team supervisor and university mentors on the process technologies
@@ -31,7 +32,7 @@ Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)
 - Completed trainings in nanoindentation, SEM, OM 
 
 09/2013 - 07/2017	Undergraduate 	Harbin Institute of Technology, Weihai  
-- BEng in Materials Forming and Controlling (HIT)	
+- BEng in Materials Forming and Controlling
 - Minus program in English Literature Translation
 
 09/2016 - 07/2017	Undergraduate exchange student 	NUI Galway  
