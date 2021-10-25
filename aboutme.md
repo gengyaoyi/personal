@@ -41,9 +41,8 @@ List of papers I have published
 4. Yaoyi Geng, Noel Harrison. [Functionally graded bimodal Ti-6Al-4V fabricated by powder bed fusion additive manufacturing: Crystal plasticity finite element modelling](https://www.sciencedirect.com/science/article/pii/S0921509319315229). Materials Science and Engineering: A, Volume 773, 31 January 2020, 138736 (IF2020 = 5.234)	
 
 **a little Chinese poem where my name was originated**
-### 遥襟甫畅 逸兴遄飞
 
-#### **遥Yao**襟甫畅  
-#### **逸Yi**兴遄飞  
+#### **遥(Yao)**襟甫畅，**逸(Yi)**兴遄飞
+
 爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。四美具，二难并。穷睇眄于中天，极娱游于暇日。天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。望长安于日下，目吴会于云间。地势极而南溟深，天柱高而北辰远。关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。怀帝阍而不见，奉宣室以何年？
 
