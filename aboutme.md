@@ -4,7 +4,7 @@ title: About Yaoyi
 subtitle: This is Yaoyi's personel website
 ---
 
-My name is GENG Yaoyi. I'm a mechanical engineer with 4+ years of experience in metal additive manufacturing (AM). Education background in both Chinese and Irish research institutes. Currently a PhD candidate under the supervision of Dr Noel Harrison in the ASMME research group at NUI Galway. Yaoyi has Developed advanced experimental, data analytics, and advanced finite element modelling skills during the PhD. 
+My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at NUI Galway. 
 
 ### Work experience
 
@@ -43,7 +43,7 @@ My name is GENG Yaoyi. I'm a mechanical engineer with 4+ years of experience in 
   - Polymer Engineering (76%)
   - System reliability (78%)
 
-### List of publications I have published 
+### Publications 
 1. Yaoyi Geng, Wenlong Xie, Yuhui Tu, Siying Deng, Darragh Egan, Denis P. Dowling, Hongwu Song, Shihong Zhang, Noel Harrison, [Ti–6Al–4V microstructural functionally graded material by additive manufacturing: Experiment and computational modelling](https://www.sciencedirect.com/science/article/pii/S0921509321010480), Materials Science and Engineering: A, Volume 823, 17 August 2021, 141782 (IF2020 = 5.234)
 2. Yaoyi Geng, Éanna McCarthy, Dermot Brabazon, Noel M Harrison. [Ti-6Al-4V functionally graded material via high power and high speed laser surface modification](https://www.sciencedirect.com/science/article/pii/S0257897220307544), Surface and Coatings Technology, Volume 398, 25 September 2020, 126085 (IF2020 = 4.158)
 3. Yaoyi Geng, Brendan Phelan, Ramesh Raghavendra, Noel Harrison. [Single-step process of microstructural functionally graded Ti-6Al-4V by laser powder bed fusion additive manufacturing](https://link.springer.com/article/10.1007/s40194-020-00907-1). Welding in the World. Weld World 64, 1357–1366, 08 May 2020 (IF2020 = 2.103)
