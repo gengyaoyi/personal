@@ -7,7 +7,11 @@ subtitle: This is Yaoyi's personel website
 My name is GENG Yaoyi. I'm a mechanical engineer with 4+ years of experience in metal additive manufacturing (AM). Education background in both Chinese and Irish research institutes. Currently a PhD candidate under the supervision of Dr Noel Harrison in the ASMME research group at NUI Galway. Yaoyi has Developed advanced experimental, data analytics, and advanced finite element modelling skills during the PhD. 
 
 Work experience 
-- Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)
+Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)
+03/2016 - 04/2016	Luoyang Building Machinery 		Engineering Intern 
+- Attended on-site visit and trainings to the agricultural machinery factory
+- Prepared daily report to team supervisor and university mentors on the process technologies
+- Communicated with experienced engineers on metal plastic forming technologies 
 
 Education
 
