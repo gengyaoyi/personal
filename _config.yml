@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: GENG Yaoyi
+title: Mr GENG Yaoyi
 
 # Your name to show in the footer
 author: Yaoyi
@@ -62,6 +62,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
   google-scholar: citations?user=-p758fsAAAAJ&hl=en
+  ResearchGate: https://www.researchgate.net/profile/Yaoyi-Geng
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
