@@ -6,8 +6,13 @@ subtitle: This is Yaoyi's personel website
 
 My name is Yaoyi, I'm from Nehe, China:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Work experience 
+- Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)
+
+Education
+- 爱尔兰高威大学 NUI Galway
+- 爱尔兰高威大学 NUI Galway
+- 哈工大 Harbin Institute of Technology
 
 What else do you need?
 
