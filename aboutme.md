@@ -34,7 +34,7 @@ My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [N
 - BEng in Materials Forming and Controlling
 - Minus program in English Literature Translation
 
-09/2016 - 07/2017	Undergraduate exchange student 	_NUI Galway, Ireland_  
+09/2016 - 07/2017	Undergraduate exchange student   _[NUI Galway](http://nuigalway.ie/), Ireland_  
 - BEng (1st Class Honors) in Mechanical Engineering
 - Courses completed
   - Methods in Engineering Analysis (79%)
@@ -51,7 +51,8 @@ My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [N
 3. Yaoyi Geng, Brendan Phelan, Ramesh Raghavendra, Noel Harrison. [Single-step process of microstructural functionally graded Ti-6Al-4V by laser powder bed fusion additive manufacturing](https://link.springer.com/article/10.1007/s40194-020-00907-1). _Welding in the World_. Weld World 64, 1357–1366, 08 May 2020 (IF2020 = 2.103)
 4. Yaoyi Geng, Noel Harrison. [Functionally graded bimodal Ti-6Al-4V fabricated by powder bed fusion additive manufacturing: Crystal plasticity finite element modelling](https://www.sciencedirect.com/science/article/pii/S0921509319315229). _Materials Science and Engineering: A_, Volume 773, 31 January 2020, 138736 (IF2020 = 5.234)	
 
-**a little Chinese poem where my name was originated**
+
+### Lastly, a little Chinese poem where my name was originated
 
 #### **遥(Yáo)** 襟甫畅，**逸(Yì)** 兴遄飞
 爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。四美具，二难并。穷睇眄于中天，极娱游于暇日。天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。望长安于日下，目吴会于云间。地势极而南溟深，天柱高而北辰远。关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。怀帝阍而不见，奉宣室以何年？
