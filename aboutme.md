@@ -11,6 +11,4 @@ subtitle: Get start to know my _life_
 ### The village in Heilongjiang
 The village I grow up in is called Man Cang. It is a small village. Cold (up to -40°C) in the winter. My house is 
 
-### I like Rubic cubes
-
-### I had a 
+![my house at Mancang](/assets/img/house_mancang.jpg)
