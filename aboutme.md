@@ -44,7 +44,7 @@ My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [N
   - System reliability (78%)
 - Completed the final year project in the Galway Energy Efficient Car team ([the GEEC](http://thegeec.ie/)) 
 
-### Publications
+### Publications ([Google scholar](https://scholar.google.com/citations?user=-p758fsAAAAJ&hl=en))
 
 1. Yaoyi Geng, Wenlong Xie, Yuhui Tu, Siying Deng, Darragh Egan, Denis P. Dowling, Hongwu Song, Shihong Zhang, Noel Harrison, [Ti–6Al–4V microstructural functionally graded material by additive manufacturing: Experiment and computational modelling](https://www.sciencedirect.com/science/article/pii/S0921509321010480), _Materials Science and Engineering: A_, Volume 823, 17 August 2021, 141782 (IF2020 = 5.234)
 2. Yaoyi Geng, Éanna McCarthy, Dermot Brabazon, Noel M Harrison. [Ti-6Al-4V functionally graded material via high power and high speed laser surface modification](https://www.sciencedirect.com/science/article/pii/S0257897220307544), _Surface and Coatings Technology_, Volume 398, 25 September 2020, 126085 (IF2020 = 4.158)
