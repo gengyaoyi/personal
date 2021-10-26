@@ -4,7 +4,7 @@ title: About me
 subtitle: This is Yaoyi's personel website
 ---
 
-My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at NUI Galway. 
+My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [NUI Galway](http://nuigalway.ie/). 
 
 ### Work experience
 
@@ -16,32 +16,33 @@ My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at NU
 
 ### Education
 
-10/2017 - 10/2021	PhD candidate			_NUI Galway, Ireland_  
+10/2017 - 10/2021	PhD candidate			_[NUI Galway](http://nuigalway.ie/), Ireland_  
 - Led the conceptualization, DOE, testing, characterization of the additive manufacturing Ti-6Al-4V; developed hand-on experience in additive manufacturing, SEM, EBSD, tensile test with DIC, nanoindentation, μ-CT etc
 - Developed user subroutines and Python script for Abaqus finite element models, and led the validation of the model
 - Performed data analytics and data visualization using Python packages NumPy, Pandas, Matplotlib 
 - Publish high-impact papers, present findings in international conferences, and attended ISO meetings
 
-08/2020 - 10/2020	Visiting PhD student 			_Institute of Metal Research, Shenyang, China_  
+08/2020 - 10/2020	Visiting PhD student 			_[Institute of Metal Research](http://english.imr.cas.cn/),Chinese Academy of Science, Shenyang, China_  
 - Conducted DIC, SEM and EBSD for AM Ti-6Al-4V
 - Assist the supervision of Master’s projects in 1) laser surface modification 2) impact hydroforming of dual phase steel
 
-09/2019 - 01/2020	Visiting PhD student			_Dublin City University, Ireland_  
+09/2019 - 01/2020	Visiting PhD student			_[Dublin City University](https://www.dcu.ie/), Ireland_  
 - Conducted laser surface modification on Ti-6Al-4V and investigated the effect on microstructure
 - Completed trainings in nanoindentation, SEM, OM 
 
-09/2013 - 07/2017	Undergraduate 	_Harbin Institute of Technology, Weihai, China_  
+09/2013 - 07/2017	Undergraduate 	_[Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn/), China_  
 - BEng in Materials Forming and Controlling
 - Minus program in English Literature Translation
 
 09/2016 - 07/2017	Undergraduate exchange student 	_NUI Galway, Ireland_  
-- BEng in Mechanical Engineering at NUI Galway (average score 72.4%)
+- BEng (1st Class Honors) in Mechanical Engineering
 - Courses completed
   - Methods in Engineering Analysis (79%)
   - Biomechanics (70%)
   - Linear Control System (81%)
   - Polymer Engineering (76%)
   - System reliability (78%)
+- Completed the final year project in the Galway Energy Efficient Car team ([the GEEC](http://thegeec.ie/)) 
 
 ### Publications
 
