@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: This is Yaoyi's personel website
+title: CV 
+subtitle: Get start to know my experience
 ---
 
 My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [NUI Galway](http://nuigalway.ie/). 
@@ -44,6 +44,17 @@ My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [N
   - System reliability (78%)
 - Completed the final year project in the Galway Energy Efficient Car team ([the GEEC](http://thegeec.ie/)) 
 
+2010 - 2013 Nehe No.1 Senior High School
+- 2nd Class Award for the high school English competition in Qiqihar
+- Class monitor for Biology 
+
+2006 - 2010 Nehe No.5 Jonior High School
+- I started learning English since this time 
+
+2001 - 2006 Mancang Primary School, Jinhua County, Nehe
+- I happily spent my time in the village school
+- There are only 5 students in my class when I graduate from here
+
 ### Key Skills
 Metal 3D printers
 - Concept Laser XLine1000R
@@ -59,20 +70,22 @@ Materials testing
 - μ-CT and fluorescent inspection
 
 Software skills 
-- Finite element modelling 
  - ABAQUS with experience in developing Python script and user subroutines
  - Completed ANSYS training in [CADFEM](https://www.cadfem.net/ie/en/home.html) 
+ - Materialise Magics
+ - Python
+ - MS office
 
 Technical drawing
  - Siemens NX
  - Rhinoceros with Grasshopper plugin
 
-### Awards and certificates 									
-09/2021		Quality Management Foundations - LinkedIn Learning
-08/2021		Six Sigma: Green Belt course - Project Management Institute, Inc.
-08/2021		Learning Minitab - National Association of State Boards of Accountancy
-06/2017		13th at Shell Eco-Marathon Europe 2017 (monocoque team leader)
-06/2014		Social Work Prize of Harbin Institute of Technology at Weihai 
+### Awards and certificates
+- 09/2021		Quality Management Foundations - LinkedIn Learning  
+- 08/2021		Six Sigma: Green Belt course - Project Management Institute, Inc.  
+- 08/2021		Learning Minitab - National Association of State Boards of Accountancy  
+- 06/2017		13th at Shell Eco-Marathon Europe 2017 (monocoque team leader)  
+- 06/2014		Social Work Prize of Harbin Institute of Technology at Weihai 
 
 ### Publications ([Google scholar](https://scholar.google.com/citations?user=-p758fsAAAAJ&hl=en))
 
