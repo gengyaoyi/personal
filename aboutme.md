@@ -44,6 +44,36 @@ My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [N
   - System reliability (78%)
 - Completed the final year project in the Galway Energy Efficient Car team ([the GEEC](http://thegeec.ie/)) 
 
+### Key Skills
+Metal 3D printers
+- Concept Laser XLine1000R
+- BD 400
+- TRUMPF TruPrint 3000
+- 3D Systems DMP ProX 100
+- EOS 280
+- AconityMINI
+
+Materials testing
+- Microstructure characterisation of metals with optical microscopy, SEM, EBSD
+- Tensile test, DIC, nanoindentation 
+- μ-CT and fluorescent inspection
+
+Software skills 
+- Finite element modelling 
+ - ABAQUS with experience in developing Python script and user subroutines
+ - Completed ANSYS training in [CADFEM](https://www.cadfem.net/ie/en/home.html) 
+
+Technical drawing
+ - Siemens NX
+ - Rhinoceros with Grasshopper plugin
+
+### Awards and certificates 									
+09/2021		Quality Management Foundations - LinkedIn Learning
+08/2021		Six Sigma: Green Belt course - Project Management Institute, Inc.
+08/2021		Learning Minitab - National Association of State Boards of Accountancy
+06/2017		13th at Shell Eco-Marathon Europe 2017 (monocoque team leader)
+06/2014		Social Work Prize of Harbin Institute of Technology at Weihai 
+
 ### Publications ([Google scholar](https://scholar.google.com/citations?user=-p758fsAAAAJ&hl=en))
 
 1. Yaoyi Geng, Wenlong Xie, Yuhui Tu, Siying Deng, Darragh Egan, Denis P. Dowling, Hongwu Song, Shihong Zhang, Noel Harrison, [Ti–6Al–4V microstructural functionally graded material by additive manufacturing: Experiment and computational modelling](https://www.sciencedirect.com/science/article/pii/S0921509321010480), _Materials Science and Engineering: A_, Volume 823, 17 August 2021, 141782 (IF2020 = 5.234)
