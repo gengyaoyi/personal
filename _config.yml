@@ -15,7 +15,7 @@ author: 老耿
 
 navbar-links:
   About Me: "aboutme"
-  About: "aboutme"
+  About: "about"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
