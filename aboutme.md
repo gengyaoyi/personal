@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My life 
-subtitle: Get start to know my _life_
+subtitle: Get start to know my life
 ---
 
 ### A Chinese poem where my name was 'originated'
