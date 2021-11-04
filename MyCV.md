@@ -4,7 +4,7 @@ title: CV
 subtitle: Get start to know my experience
 ---
 
-My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [NUI Galway](http://nuigalway.ie/). 
+My name is GENG Yaoyi. Born in Heilongjiang China. I am currently a PhD candidate in Mechanical Engineering at _[NUI Galway](http://nuigalway.ie/)_. My research is on the functionally graded material fabricated with additive manufacturing (known as 3D printing). The material I work with is Ti6Al4V, which is widely used in biomedical applications. 
 
 ### Work experience
 
@@ -17,18 +17,10 @@ My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [N
 ### Education
 
 10/2017 - 10/2021	PhD candidate			_[NUI Galway](http://nuigalway.ie/), Ireland_  
-- Led the conceptualization, DOE, testing, characterization of the additive manufacturing Ti-6Al-4V; developed hand-on experience in additive manufacturing, SEM, EBSD, tensile test with DIC, nanoindentation, μ-CT etc
-- Developed user subroutines and Python script for Abaqus finite element models, and led the validation of the model
-- Performed data analytics and data visualization using Python packages NumPy, Pandas, Matplotlib 
-- Publish high-impact papers, present findings in international conferences, and attended ISO meetings
 
 08/2020 - 10/2020	Visiting PhD student 			_[Institute of Metal Research](http://english.imr.cas.cn/),Chinese Academy of Science, Shenyang, China_  
-- Conducted DIC, SEM and EBSD for AM Ti-6Al-4V
-- Assist the supervision of Master’s projects in 1) laser surface modification 2) impact hydroforming of dual phase steel
 
 09/2019 - 01/2020	Visiting PhD student			_[Dublin City University](https://www.dcu.ie/), Ireland_  
-- Conducted laser surface modification on Ti-6Al-4V and investigated the effect on microstructure
-- Completed trainings in nanoindentation, SEM, OM 
 
 09/2013 - 07/2017	Undergraduate 	_[Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn/), China_  
 - BEng in Materials Forming and Controlling
@@ -36,33 +28,16 @@ My name is GENG Yaoyi. Currently a PhD candidate in Mechanical Engineering at [N
 
 09/2016 - 07/2017	Undergraduate exchange student   _[NUI Galway](http://nuigalway.ie/), Ireland_  
 - BEng (1st Class Honors) in Mechanical Engineering
-- Courses completed
-  - Methods in Engineering Analysis (79%)
-  - Biomechanics (70%)
-  - Linear Control System (81%)
-  - Polymer Engineering (76%)
-  - System reliability (78%)
 - Completed the final year project in the Galway Energy Efficient Car team ([the GEEC](http://thegeec.ie/)) 
 
 2010 - 2013 Nehe No.1 Senior High School
-- 2nd Class Award for the high school English competition in Qiqihar
-- Class monitor for Biology 
 
 2006 - 2010 Nehe No.5 Jonior High School
-- I started learning English since this time 
 
 2001 - 2006 Mancang Primary School, Jinhua County, Nehe
-- I happily spent my time in the village school
-- There are only 5 students in my class when I graduate from here
 
 ### Key Skills
-Metal 3D printers
-- Concept Laser XLine1000R
-- BD 400
-- TRUMPF TruPrint 3000
-- 3D Systems DMP ProX 100
-- EOS 280
-- AconityMINI
+Metal 3D printing
 
 Materials testing
 - Microstructure characterisation of metals with optical microscopy, SEM, EBSD
