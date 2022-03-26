@@ -8,11 +8,18 @@ My name is GENG Yaoyi. Born in Heilongjiang China. I am currently a PhD candidat
 
 ### Work experience
 
-Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)
+**12/2021 - Now** Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)
 - Materialise Magics platform creation 
+- Lower extremeties 
+- Attend training in Statistics,  
 
+**11/2020 - 05/2021**	 Consu Metal Material Ltd. Shanghai    Senior Additive Manufacturing Engineer
+•	Project management: led the DOE, testing and validation of a novel nano-particle reinforced AA6060 metal powder for AM
+•	Project management: led a high-precision aerospace turbine blade project in collaboration with TRUMPF(China)
+•	Continuous process improvement: led the manufacture efficiency improvement team. Achieved a 40% productivity improvement of AM AlSi10Mg via parameter optimization using DMAIC
+•	Participating quality control: performed quality inspection using μ-CT and fluorescent inspection for AM metal products
 
-03/2016 - 04/2016	Luoyang Building Machinery 		Engineering Intern 
+**03/2016 - 04/2016**	Luoyang Building Machinery 		Engineering Intern 
 - Attended on-site visit and trainings to the agricultural machinery factory
 - Prepared daily report to team supervisor and university mentors on the process technologies
 - Communicated with experienced engineers on metal plastic forming technologies 
