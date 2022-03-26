@@ -4,7 +4,7 @@ title: CV
 subtitle: Yaoyi's career
 ---
 
-PhD in Mechanical Engineering at _[NUI Galway](http://nuigalway.ie/) on the functionally graded material fabricated with additive manufacturing (also called '3D printing'). The material I work with is Ti6Al4V, which is widely used in biomedical applications. Currently a Senior Process Engineer at R&D Solutions (Trauma and Extremities) in Stryker Additive.
+PhD in Mechanical Engineering at [NUI Galway](http://nuigalway.ie/) on the functionally graded material fabricated with additive manufacturing (also called '3D printing'). The material I work with is Ti6Al4V, which is widely used in biomedical applications. Currently a Senior Process Engineer at R&D Solutions (Trauma and Extremities) in Stryker Additive.
 
 ### Work experience
 
