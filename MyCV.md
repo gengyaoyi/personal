@@ -9,6 +9,9 @@ My name is GENG Yaoyi. Born in Heilongjiang China. I am currently a PhD candidat
 ### Work experience
 
 Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)
+- Materialise Magics platform creation 
+
+
 03/2016 - 04/2016	Luoyang Building Machinery 		Engineering Intern 
 - Attended on-site visit and trainings to the agricultural machinery factory
 - Prepared daily report to team supervisor and university mentors on the process technologies
