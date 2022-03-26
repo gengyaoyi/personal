@@ -1,14 +1,14 @@
 ---
 layout: page
 title: CV 
-subtitle: Get start to know my experience
+subtitle: My profesional life
 ---
 
 My name is GENG Yaoyi. Born in Heilongjiang China. I am currently a PhD candidate in Mechanical Engineering at _[NUI Galway](http://nuigalway.ie/)_. My research is on the functionally graded material fabricated with additive manufacturing (known as 3D printing). The material I work with is Ti6Al4V, which is widely used in biomedical applications. 
 
 ### Work experience
 
-<!--- Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork) --->
+Seinor Process Engineerg, Advanced Operations, Stryker (Ireland, Cork)
 03/2016 - 04/2016	Luoyang Building Machinery 		Engineering Intern 
 - Attended on-site visit and trainings to the agricultural machinery factory
 - Prepared daily report to team supervisor and university mentors on the process technologies
