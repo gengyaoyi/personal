@@ -40,26 +40,20 @@ PhD in Mechanical Engineering at _[NUI Galway](http://nuigalway.ie/) on the func
 - BEng (1st Class Honors) in Mechanical Engineering
 - Completed the final year project in the Galway Energy Efficient Car team ([the GEEC](http://thegeec.ie/)) 
 
-**2010 - 2013** Nehe No.1 Senior High School
-
-**2006 - 2010** Nehe No.5 Jonior High School
-
-**2001 - 2006** Mancang Primary School, Jinhua County, Nehe
-
 ### Key Skills
 Metal 3D printing
 - Extensive first-hand experience with multiple metal powder bed fusion machines including Concept Laser (GE) XLine 1000 and M2, 3D Systems DMP ProX 100, EOS 280, TrumPF TruPrint 3000, Aconity Mini, HBD 400.
 - Skilled with both 3D cad model creation, modificatin and Materialise Magics platform creation experience for both aerospace and medical device industry.  
 
 Materials testing
-- **Microstructure characterisation** optical microscopy, SEM, EBSD
-- **Mechanical test** Tensile (with digital image correlation), compressoin, bending, fatigue, abrasion, coefficient of friction, nanoindentation 
-- **Non-disruptive inspection** μ-CT and fluorescent inspection
+- **Microstructure characterisation:** optical microscopy, SEM, EBSD
+- **Mechanical test:** Tensile (with digital image correlation), compressoin, bending, fatigue, abrasion, coefficient of friction, nanoindentation 
+- **Non-disruptive inspection:** μ-CT and fluorescent inspection
 
 Software skills 
- - **Finite element analysis** ABAQUS with experience in developing Python script and user material subroutines. Completed ANSYS training in [CADFEM](https://www.cadfem.net/ie/en/home.html)
- - **Programming language** data visulization in Python using Matplotlib and Pandas 
- - **Technical drawing** Siemens NX, Rhinoceros with Grasshopper plugin, Solidworks and AutoCAD 
+ - **Finite element analysis:** ABAQUS with experience in developing Python script and user material subroutines. Completed ANSYS training in [CADFEM](https://www.cadfem.net/ie/en/home.html)
+ - **Programming language:** data visulization in Python using Matplotlib and Pandas 
+ - **Technical drawing:** Siemens NX, Rhinoceros with Grasshopper plugin, Solidworks and AutoCAD 
 
 ### Awards and certificates
 - **02/2022**  Advanced Statistics with Minitab, [Global Business Institute Ireland](https://www.globalbusiness.ie/)
@@ -71,7 +65,8 @@ Software skills
 - **06/2017**		13th at [Shell Eco-Marathon Europe](https://www.makethefuture.shell/en-gb/shell-eco-marathon) 2017 (monocoque team leader)  
 - **06/2014**		Social Work Prize of Harbin Institute of Technology at Weihai 
 
-### Publications ([Google scholar](https://scholar.google.com/citations?user=-p758fsAAAAJ&hl=en))
+### Publications
+([Google scholar](https://scholar.google.com/citations?user=-p758fsAAAAJ&hl=en))
 
 1. Yaoyi Geng, Wenlong Xie, Yuhui Tu, Siying Deng, Darragh Egan, Denis P. Dowling, Hongwu Song, Shihong Zhang, Noel Harrison, [Ti–6Al–4V microstructural functionally graded material by additive manufacturing: Experiment and computational modelling](https://www.sciencedirect.com/science/article/pii/S0921509321010480), _Materials Science and Engineering: A_, Volume 823, 17 August 2021, 141782 (IF2020 = 5.234)
 2. Yaoyi Geng, Éanna McCarthy, Dermot Brabazon, Noel M Harrison. [Ti-6Al-4V functionally graded material via high power and high speed laser surface modification](https://www.sciencedirect.com/science/article/pii/S0257897220307544), _Surface and Coatings Technology_, Volume 398, 25 September 2020, 126085 (IF2020 = 4.158)
